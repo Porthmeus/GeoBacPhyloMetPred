@@ -84,9 +84,9 @@ microbial community while the bacterial communities still specifically
 reflect the host species.
 
 The aim of this small project is the evaluation of the metabolic
-capabilities of wild type *Hydra* bacteria using picrust2 Douglas et al.
-([2020](#ref-douglasPICRUSt2PredictionMetagenome2020)) and comparing the
-results to the bacterial diversity.
+capabilities of wild type *Hydra* bacteria using picrust2 (Douglas et
+al. ([2020](#ref-douglasPICRUSt2PredictionMetagenome2020))) and
+comparing the results to the bacterial diversity.
 
 Data
 ====

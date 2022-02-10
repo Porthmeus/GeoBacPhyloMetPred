@@ -20,7 +20,7 @@ In a current study we aimed to understand the factors that shape bacterial diver
 
 We found that the sampling site (population) has the strongest effect on α-and β-diversity, followed by the type of the water body, while the host factors (species and reproduction mode) had a much weaker, but consistent effect on the bacterial diversities. The results showed that environmental factors were most strongly associated  with changes in the microbial community  while the bacterial communities still specifically reflect the host species.
 
-The aim of this small project is the evaluation of the metabolic capabilities of wild type _Hydra_ bacteria using picrust2 @douglasPICRUSt2PredictionMetagenome2020 and comparing the results to the bacterial diversity.
+The aim of this small project is the evaluation of the metabolic capabilities of wild type _Hydra_ bacteria using picrust2 (@douglasPICRUSt2PredictionMetagenome2020) and comparing the results to the bacterial diversity.
 
 # Data
 
