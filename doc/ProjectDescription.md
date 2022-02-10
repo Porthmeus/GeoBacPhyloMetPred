@@ -14,13 +14,11 @@ species can even occur inside cells as endosymbionts (Fraune and Bosch
 microbiota experimentally removed have reduced movement and
 contractility (Murillo-Rincon et al.
 ([2017](#ref-murillo-rinconSpontaneousBodyContractions2017))) and
-impaired ability to reproduce asexually ((<span
-class="citeproc-not-found"
-data-reference-id="rahatCultivationBacteriaFree_Hydra_1982">**???**</span>)).
-Interactions between microbial components influence pattern formation
-(Taubenheim et al.
-([2020](#ref-taubenheimBacteriaTemperatureregulatedPeptides2020))), and
-can induce tumor development (Rathje et al.
+impaired ability to reproduce asexually (Rahat and Dimentman
+([1982](#ref-rahatCultivationBacteriaFreeHydra1982))). Interactions
+between microbial components influence pattern formation (Taubenheim et
+al. ([2020](#ref-taubenheimBacteriaTemperatureregulatedPeptides2020))),
+and can induce tumor development (Rathje et al.
 ([2020](#ref-rathjeDynamicInteractionsHostassociated2020))), but the
 presence of core microbial elements also protects the host against
 fungal infections (Fraune et al.
@@ -28,12 +26,12 @@ fungal infections (Fraune et al.
 
 *Hydra* polyps actively shape the composition of their associated
 bacterial community through the secretion of antimicrobial peptides
-(Fraune et al. ([2010](#ref-frauneEarlyBranchingMetazoan2010)),
+(Fraune et al. ([2010](#ref-frauneEarlyBranchingMetazoan2010)), S.
 Franzenburg et al.
 ([2013](#ref-franzenburgDistinctAntimicrobialPeptide2013)), Augustin et
 al. ([2017](#ref-augustinSecretedAntibacterialNeuropeptide2017))). As a
 result, laboratory maintained *Hydra* species differ in the bacterial
-community (Franzenburg et al.
+community (S. Franzenburg et al.
 ([2013](#ref-franzenburgDistinctAntimicrobialPeptide2013))), and show
 long-term association with the host, partly reflecting differences
 observed in their natural habitats
@@ -41,11 +39,10 @@ observed in their natural habitats
 Furthermore, components of the microbiota are at least partly
 transmitted vertically to embryos through a process controlled by
 maternal antimicrobial peptides (Fraune et al.
-([2010](#ref-frauneEarlyBranchingMetazoan2010)), (<span
-class="citeproc-not-found"
-data-reference-id="franzenburgBacterialColonization_Hydra_2013">**???**</span>)),
-providing an opportunity for coevolution between host physiology and
-microbial diversity. However, factors driving variation in the microbial
+([2010](#ref-frauneEarlyBranchingMetazoan2010)), Franzenburg et al.
+([2013](#ref-franzenburgBacterialColonizationHydra2013))), providing an
+opportunity for coevolution between host physiology and microbial
+diversity. However, factors driving variation in the microbial
 composition and diversity of natural *Hydra* populations remained so far
 unexplained.
 
@@ -175,6 +172,12 @@ Morgan G. I. Langille. 2020. “PICRUSt2 for Prediction of Metagenome
 Functions.” *Nature Biotechnology* 38 (6): 685–88.
 <https://doi.org/10.1038/s41587-020-0548-6>.
 
+Franzenburg, Sören, Sebastian Fraune, Philipp M Altrock, Sven Künzel,
+John F Baines, Arne Traulsen, and Thomas CG Bosch. 2013. “Bacterial
+Colonization of Hydra Hatchlings Follows a Robust Temporal Pattern.”
+*The ISME Journal* 7 (4): 781–90.
+<https://doi.org/10.1038/ismej.2012.156>.
+
 Franzenburg, S., J. Walter, S. Kunzel, J. Wang, J. F. Baines, T. C. G.
 Bosch, and S. Fraune. 2013. “Distinct Antimicrobial Peptide Expression
 Determines Host Species-Specific Bacterial Associations.” *Proceedings
@@ -211,6 +214,10 @@ Taubenheim, Benedikt Mortzfeld, René Augustin, and Thomas C. G. Bosch.
 2017. “Spontaneous Body Contractions Are Modulated by the Microbiome of
 Hydra.” *Scientific Reports* 7 (1): 15937.
 <https://doi.org/10.1038/s41598-017-16191-x>.
+
+Rahat, M., and Ch. Dimentman. 1982. “Cultivation of Bacteria-Free
+*Hydra* *Viridis* : Missing Budding Factor in Nonsymbiotic Hydra.”
+*Science* 216 (4541): 67–68. <https://doi.org/10.1126/science.7063873>.
 
 Rathje, Kai, Benedikt Mortzfeld, Marc P. Hoeppner, Jan Taubenheim,
 Thomas C. G. Bosch, and Alexander Klimovich. 2020. “Dynamic Interactions
