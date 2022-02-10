@@ -34,8 +34,8 @@ result, laboratory maintained *Hydra* species differ in the bacterial
 community (S. Franzenburg et al.
 ([2013](#ref-franzenburgDistinctAntimicrobialPeptide2013))), and show
 long-term association with the host, partly reflecting differences
-observed in their natural habitats
-(<a href="mailto:j@frauneLongtermMaintenanceSpeciesspecific2007" class="email">j@frauneLongtermMaintenanceSpeciesspecific2007</a>).
+observed in their natural habitats (Fraune and Bosch
+([2007](#ref-frauneLongtermMaintenanceSpeciesspecific2007))).
 Furthermore, components of the microbiota are at least partly
 transmitted vertically to embryos through a process controlled by
 maternal antimicrobial peptides (Fraune et al.
